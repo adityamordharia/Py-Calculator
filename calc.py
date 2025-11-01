@@ -4,4 +4,4 @@ n1 = input("please enter your 1st number: ")
 n2 = input("please enter your 1st number: ")
 
 o = ["add" , "multiply" ]
-input 
+input 2
